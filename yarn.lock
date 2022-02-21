@@ -363,10 +363,10 @@
   dependencies:
     tslib "^2.3.0"
 
-"@angular/dev-infra-private@https://github.com/angular/dev-infra-private-builds.git#98589d4fcc912bce9a89884cf7717ba9b0152bc1":
-  version "0.0.0-a2476591d67d2e6e27deee0be707fa3223c0dacb"
-  uid "98589d4fcc912bce9a89884cf7717ba9b0152bc1"
-  resolved "https://github.com/angular/dev-infra-private-builds.git#98589d4fcc912bce9a89884cf7717ba9b0152bc1"
+"@angular/dev-infra-private@https://github.com/angular/dev-infra-private-builds.git#a20d25049fa99ba8a8ee62b234e4a64177bbf872":
+  version "0.0.0-a9c48602d4f54850beabdf7933e05a9ce89e9dd5"
+  uid a20d25049fa99ba8a8ee62b234e4a64177bbf872
+  resolved "https://github.com/angular/dev-infra-private-builds.git#a20d25049fa99ba8a8ee62b234e4a64177bbf872"
   dependencies:
     "@actions/core" "^1.4.0"
     "@actions/github" "^5.0.0"
